@@ -7,3 +7,6 @@ Kovic.com is an e-commerce website where users can purchase from their favorite 
 - kovic1.com, kovic2.com, and kovic3.com directories go in ```/var/www/```
 - kovic.key goes in ```/etc/ssl/private/```
 - kovic.crt goes in ```/etc/ssl/certs/```
+
+## Video
+You may see a demonstration of this video from me and my partner with this link: https://www.youtube.com/watch?v=5c2gu-pZFhg
