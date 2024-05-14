@@ -11,5 +11,7 @@ This web architecture was created by using an LNMP web stack. It was made using 
 - kovic.key goes in ```/etc/ssl/private/```
 - kovic.crt goes in ```/etc/ssl/certs/```
 
+After all files are in their correct directories, run ```sudo systemctl restart nginx```
+
 ## Video
 You may see a demonstration of this website from me and my partner with this link: https://www.youtube.com/watch?v=5c2gu-pZFhg
