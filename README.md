@@ -2,7 +2,7 @@
 Kovic.com is an e-commerce website where users can purchase from their favorite toy and plushy brands all on one website. The main purpose of this project is to showcase our ability to create a web architecture.
 
 ## Tools
-This web architecture was created by using an LNMP web stack. It was made using Linux, Nginx, MySQL, PHP, AWS EC2, and ufw firewall. SSL was used for encryption with a digital certificate. We used AWS EC2 auto scaling for high availability and scalability. 
+This web architecture was created by using an LNMP web stack. It was made using Linux, Nginx, MySQL, PHP, AWS EC2, and a ufw firewall. SSL was used for encryption with a digital certificate. We used AWS EC2 auto scaling for high availability and scalability. 
 
 ## File Placement
 - kovic-server1.com, kovic-server2.com, kovic-server3.com, and reverse will all go in ```/etc/nginx/sites-available/```
